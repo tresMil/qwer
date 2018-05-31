@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-0 group-title="Streams",canal TN23 Guatemala
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
+#EXTINF:-0,canal 3 Guatemala
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
+#EXTINF:-0,canal 7 Guatemala
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8
+#EXTINF:-1,Canal Plus Guatemala 
+http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
+#EXTINF:-1,Telecosta SD
+http://arcamediastream.net:1935/8374/8374/playlist.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Betis Tv	
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,Azteca Mas
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:1,GUATEMALA TV
+http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8
+#EXTINF:1,TVCA CATOLICO
+http://streamserver3.us/tvcaelsalvador/live/playlist.m3u8
+#EXTINF:-1, TVE 24h
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, La Voz de Maria
+http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2115659573.m3u8
+#EXTINF:-1, Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1, Telemundo Internacional
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEMUNDO)/Stream(01)/index.m3u8
+#EXTINF:-1, Telemundo 51
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:-1,RCN Colombia
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN)/Stream(01)/index.m3u8
+#EXTINF:-1,Caracol
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, CGTN en Español | SD
+https://live.cgtn.com/cctv-e.m3u8
+#EXTINF:-1,CityTV Vancouver (Canada) | HD
+http://btflash-lh.akamaihd.net/i/BTVANFLASH_live@120224/master.m3u8
+#EXTINF:-1,Trecevisión Guatemala
+http://72.46.226.61/live01/canal131/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,DW LATINOAMERICA
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
